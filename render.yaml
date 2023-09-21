@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: interstellar
+    name: hebisdinub
     env: docker
     plan: free
