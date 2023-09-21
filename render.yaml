@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: hebisdmew2
+    name: hebMEw2
     env: docker
     plan: free
